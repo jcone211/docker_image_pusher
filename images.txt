@@ -1,7 +1,7 @@
 nginx
 #支持私库
-http://192.168.0.32:30002/library/maven-jdk21@sha256:d72f2f967590549a6011015ec10fbfe14e492d3c66b061942a5649ac200b43ba
-http://192.168.0.32:30002/library/nodejs-16@sha256:2eb0e6d6670353447c17c2bfa50dd9d00b28b14062eb54ce4f192a692bb745e3
+mysql:5.7
+naocs:2.0.3
 
 
 #支持指定架构
