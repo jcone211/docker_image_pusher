@@ -1,8 +1,5 @@
-nginx
-postgres
-postgres:13.16
+nginx:alpine
 #支持私库
 
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64
