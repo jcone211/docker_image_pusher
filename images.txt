@@ -1,6 +1,6 @@
-#nginx:alpine
-
+nginx:alpine
+postgres:14.15-alpine3.21
 #支持私库
 
 #支持指定架构
---platform=linux/arm64 nginx:alpine
+#--platform=linux/arm64 nginx:alpine
